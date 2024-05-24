@@ -9,6 +9,6 @@ Neutral
 Neutral
 Neutral
 Neutral
-Sad
-Sad
-Fear
+Neutral
+Neutral
+Neutral
